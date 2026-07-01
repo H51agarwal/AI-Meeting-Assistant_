@@ -67,3 +67,6 @@ backend/uploads/
 # Logs
 logs/
 *.log
+
+# Environment files
+backend/.env
